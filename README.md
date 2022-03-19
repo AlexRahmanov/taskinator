@@ -1,2 +1,2 @@
 # taskinator
-(Taskinator)[https://alexrahmanov.github.io/taskinator/]
+[Taskinator](https://alexrahmanov.github.io/taskinator/)
